@@ -61,6 +61,7 @@ echo "=== Geosite ==="
 convert_geosite category-ru             geosite-category-ru
 convert_geosite whitelist               geosite-whitelist
 convert_geosite google-play             geosite-google-play
+convert_geosite google-deepmind         geosite-google-deepmind
 convert_geosite youtube                 geosite-youtube
 convert_geosite telegram                geosite-telegram
 convert_geosite microsoft               geosite-microsoft
