@@ -1,0 +1,6 @@
+# NAME: geosite-category-ads
+# SOURCE: https://raw.githubusercontent.com/hydraponique/roscomvpn-geosite/master/data/category-ads
+# UPDATED: 2026-09-05T07:32Z
+# TOTAL: 2
+DOMAIN-SUFFIX,ad.mail.ru
+DOMAIN-SUFFIX,alt-ad.mail.ru
